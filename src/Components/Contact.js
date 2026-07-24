@@ -11,8 +11,7 @@ const Contact = () => {
             </div>
             <div className="social-container">
                 <a href="https://github.com/yashfeenfatima494" target ="_blank" rel="noreferrer" className = "social"><FaGithub /></a>
-                <a href="/" target ="_blank" rel="noreferrer" className ="social"><FaTwitter /></a>
-                <a href="/" target ="_blank" rel="noreferrer" className = "social"><FaLinkedin /></a>
+                <a href="https://www.linkedin.com/in/yashfeen-fatima-61a772424/" target ="_blank" rel="noreferrer" className = "social"><FaLinkedin /></a>
             </div>
         </div>
     )
