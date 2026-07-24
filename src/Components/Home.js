@@ -46,7 +46,7 @@ const Home = ({ setShowLink }) => {
         <div>
           <button className="btn2 resume noSelect">
             <a
-              href="https://drive.google.com/file/d/1JO73mzkOm1MyPf20xatKuK98BmJ7ixKL/view?usp=sharing"
+              href="https://drive.google.com/file/d/14E1m9z40bflRvNHxQJnE3onRrG153dZr/view?usp=sharing"
               className="anchor"
               target="_blank"
               rel="noreferrer"
